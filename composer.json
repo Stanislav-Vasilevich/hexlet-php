@@ -7,9 +7,9 @@
         "psr-4": {
             "Stanislav\\HexletPhp\\": "src/"
         },
-    "files": [
-		"src/Runner.php" 
-	]
+        "files": [
+            "src/Runner.php"
+        ]
     },
     "authors": [
         {
